@@ -1,5 +1,38 @@
 {
-    "br": {
-        "title": "test"
+    "1": {
+        "driver": {
+            "android": {
+                "qrCode": "https://assets.fuelandfleet.com/galleries/qrcode/2025-08-21-qrcode_br_android.png",
+                "link": "https://play.google.com/store/apps/details?id=com.pluxee_fleet&pcampaignid=web_share"
+            },
+            "ios": {
+                "qrCode": "https://assets.fuelandfleet.com/galleries/qrcode/2025-08-21-qrcode_br_ios.png",
+                "link": "https://apps.apple.com/br/app/pluxee-frota/id6473089971"
+            }
+        }
+    },
+    "2": {
+        "driver": {
+            "android": {
+                "qrCode": "https://assets.fuelandfleet.com/galleries/qrcode/2025-08-21-qrcode_col_android.png",
+                "link": "https://play.google.com/store/apps/details?id=com.pluxee_fleet.co"
+            },
+            "ios": {
+                "qrCode": "https://assets.fuelandfleet.com/galleries/qrcode/2025-08-21-qrcode_col_ios.png",
+                "link": "https://apps.apple.com/co/app/pluxee-flotas/id6503727364"
+            }
+        }
+    },
+    "3": {
+        "driver": {
+            "android": {
+                "qrCode": "https://assets.fuelandfleet.com/galleries/qrcode/2025-08-21-qrcode_mx_android.png",
+                "link": "https://play.google.com/store/apps/details?id=com.laagenciadigital.wizeo"
+            },
+            "ios": {
+                "qrCode": "https://assets.fuelandfleet.com/galleries/qrcode/2025-08-21-qrcode_mx_ios.png",
+                "link": "https://apps.apple.com/br/app/wizeo/id1298703833"
+            }
+        }
     }
 }
